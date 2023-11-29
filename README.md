@@ -1,3 +1,2 @@
-# Clark-Synchronous-Sequential-Machine
-Synchronous Sequential Machine
-COPYRIGHT©
+# Clark-Synchronous-Sequential-Machine_COPYRIGHT©
+
